@@ -24,3 +24,4 @@ def find_same_name(a):
 
 name = ["Tom", "Jerry", "Mike", "Jerry", "Kerry", "Kim", "Kim"]
 print(find_same_name(name))
+print("exit")
