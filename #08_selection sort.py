@@ -30,5 +30,6 @@ def sel_sort2(a):
 
 d = [2, 4, 7, 1, 3, 8, 6, 9, 5]
 # print(sel_sort(d))
+print("d =", d)
 sel_sort2(d)
 print("d =", d)
