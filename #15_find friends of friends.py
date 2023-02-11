@@ -59,4 +59,3 @@ fr_info = {
 print_all_friends(fr_info, 'Summer')
 print()
 print_all_friends(fr_info, 'Jerry')
-print()
