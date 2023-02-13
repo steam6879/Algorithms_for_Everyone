@@ -20,7 +20,7 @@ def weigh(a, b, c, d):
 #
 #     return -1
 
-def find_fakecoin(left, right): #절반씩 나눠서 탐색 ;빠른 계산 속도.
+def find_fakecoin(left, right): #이분 탐색 ;빠른 계산 속도.
     if left == right:
         return left
 
