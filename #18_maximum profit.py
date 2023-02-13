@@ -11,7 +11,7 @@
 #
 #     return max_profit
 
-def max_profit(prices):
+def max_profit(prices): #high calculation speed
     n = len(prices)
     max_profit = 0
     min_price= prices[0]
